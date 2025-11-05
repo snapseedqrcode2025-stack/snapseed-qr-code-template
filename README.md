@@ -1,1 +1,1 @@
-# snapseed-qr-code-template
+# Is Snapseed Available for Both Android and iOS?
