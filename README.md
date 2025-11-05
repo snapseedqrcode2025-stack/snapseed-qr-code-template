@@ -1,0 +1,1 @@
+# snapseed-qr-code-template
